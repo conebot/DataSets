@@ -1,0 +1,856 @@
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file="net/cones-1.jpeg">
+    <box height="159" left="150" top="3" width="99">
+      <label>cone</label>
+    </box>
+    <box height="48" left="105" top="50" width="30">
+      <label>cone</label>
+    </box>
+    <box height="29" left="76" top="52" width="16">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="net/cones-10.jpeg">
+    <box height="146" left="154" top="19" width="100">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="net/cones-11.jpeg">
+    <box height="130" left="157" top="28" width="78">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="net/cones-12.jpeg">
+    <box height="127" left="89" top="22" width="88">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="net/cones-13.jpeg">
+    <box height="213" left="33" top="38" width="109">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="net/cones-14.jpeg">
+    <box height="190" left="61" top="35" width="90">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="net/cones-15.jpeg">
+    <box height="159" left="155" top="9" width="117">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="net/cones-16.jpeg">
+    <box height="91" left="161" top="48" width="73">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="net/cones-17.jpeg">
+    <box height="62" left="108" top="108" width="52">
+      <label>cone</label>
+    </box>
+    <box height="58" left="76" top="81" width="43">
+      <label>cone</label>
+    </box>
+    <box height="43" left="47" top="67" width="42">
+      <label>cone</label>
+    </box>
+    <box height="43" left="18" top="53" width="41">
+      <label>cone</label>
+    </box>
+    <box height="83" left="191" top="141" width="33">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="net/cones-2.jpeg">
+    <box height="157" left="67" top="34" width="82">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="net/cones-3.jpeg">
+    <box height="181" left="50" top="10" width="142">
+      <label>cone</label>
+    </box>
+    <box height="98" left="6" top="79" width="70">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="net/cones-4.jpeg">
+    <box height="142" left="48" top="15" width="73">
+      <label>cone</label>
+    </box>
+    <box height="95" left="154" top="-1" width="47">
+      <label>cone</label>
+    </box>
+    <box height="60" left="208" top="0" width="35">
+      <label>cone</label>
+    </box>
+    <box height="41" left="254" top="-3" width="40">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="net/cones-5.jpeg">
+    <box height="185" left="43" top="48" width="85">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="net/cones-6.jpeg">
+    <box height="99" left="145" top="82" width="54">
+      <label>cone</label>
+    </box>
+    <box height="123" left="83" top="59" width="59">
+      <label>cone</label>
+    </box>
+    <box height="5" left="65" top="161" width="20">
+      <label>cone</label>
+    </box>
+    <box height="117" left="21" top="60" width="68">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="net/cones-7.jpeg">
+    <box height="90" left="133" top="35" width="56">
+      <label>cone</label>
+    </box>
+    <box height="160" left="-5" top="-6" width="106">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="net/cones-8.jpeg">
+    <box height="110" left="158" top="92" width="68">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="net/cones-9.jpeg">
+    <box height="143" left="96" top="29" width="80">
+      <label>cone</label>
+    </box>
+  </image>
+<image file="jh/A95/IMG_2070s.JPG">
+    <box height="130" left="241" top="411" width="100">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2071s.JPG">
+    <box height="70" left="284" top="196" width="52">
+      <label>cone</label>
+    </box>
+    <box height="100" left="207" top="272" width="77">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2072s.JPG">
+    <box height="172" left="198" top="350" width="147">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2073s.JPG">
+    <box height="218" left="84" top="304" width="171">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2074s.JPG">
+    <box height="174" left="176" top="187" width="137">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2075s.JPG">
+    <box height="177" left="118" top="376" width="143">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2076s.JPG">
+    <box height="169" left="91" top="342" width="114">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2077s.JPG">
+    <box height="136" left="128" top="334" width="96">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2078s.JPG">
+    <box height="168" left="100" top="386" width="122">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2079s.JPG">
+    <box height="157" left="121" top="414" width="123">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2080s.JPG">
+    <box height="202" left="208" top="417" width="134">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2081s.JPG">
+    <box height="256" left="197" top="361" width="172">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2082s.JPG">
+    <box height="230" left="129" top="339" width="162">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2083s.JPG">
+    <box height="363" left="105" top="283" width="259">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2084s.JPG">
+    <box height="374" left="68" top="227" width="275">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2085s.JPG">
+    <box height="393" left="55" top="172" width="281">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2086s.JPG">
+    <box height="242" left="125" top="268" width="166">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2087s.JPG">
+    <box height="194" left="153" top="220" width="140">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2088s.JPG">
+    <box height="240" left="224" top="332" width="141">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2089s.JPG">
+    <box height="251" left="245" top="249" width="143">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2090s.JPG">
+    <box height="241" left="235" top="261" width="142">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2091s.JPG">
+    <box height="185" left="367" top="111" width="129">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2092s.JPG">
+    <box height="182" left="375" top="223" width="132">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2093s.JPG">
+    <box height="174" left="129" top="214" width="106">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2094s.JPG">
+    <box height="165" left="138" top="249" width="100">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2095s.JPG">
+    <box height="164" left="77" top="279" width="102">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2096s.JPG">
+    <box height="311" left="184" top="197" width="220">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2097s.JPG">
+    <box height="188" left="337" top="167" width="129">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2098s.JPG">
+    <box height="206" left="166" top="171" width="131">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2099s.JPG">
+    <box height="195" left="344" top="188" width="136">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2100s.JPG">
+    <box height="224" left="255" top="202" width="140">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2101s.JPG">
+    <box height="216" left="258" top="158" width="147">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2102s.JPG">
+    <box height="261" left="289" top="128" width="173">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2103s.JPG">
+    <box height="268" left="379" top="142" width="155">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2110s.JPG">
+    <box height="162" left="172" top="147" width="97">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2111s.JPG">
+    <box height="346" left="6" top="155" width="226">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2114s.JPG">
+    <box height="332" left="211" top="164" width="213">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2115s.JPG">
+    <box height="292" left="124" top="155" width="209">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2116s.JPG">
+    <box height="284" left="25" top="340" width="199">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2117s.JPG">
+    <box height="316" left="90" top="125" width="216">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2118s.JPG">
+    <box height="319" left="19" top="121" width="214">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2119s.JPG">
+    <box height="341" left="48" top="185" width="228">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2120s.JPG">
+    <box height="357" left="134" top="168" width="218">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2121s.JPG">
+    <box height="476" left="67" top="95" width="287">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2122s.JPG">
+    <box height="475" left="160" top="150" width="294">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2123s.JPG">
+    <box height="310" left="351" top="107" width="186">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2124s.JPG">
+    <box height="397" left="374" top="48" width="235">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2140s.JPG">
+    <box height="228" left="146" top="319" width="181">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2141s.JPG">
+    <box height="358" left="267" top="80" width="270">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2142s.JPG">
+    <box height="304" left="351" top="127" width="167">
+      <label>cone</label>
+    </box>
+    <box height="100" left="154" top="111" width="68">
+      <label>cone</label>
+    </box>
+    <box height="32" left="136" top="94" width="22">
+      <label>cone</label>
+    </box>
+    <box height="23" left="127" top="94" width="12">
+      <label>cone</label>
+    </box>
+    <box height="22" left="124" top="92" width="10">
+      <label>cone</label>
+    </box>
+    <box height="12" left="90" top="91" width="5">
+      <label>cone</label>
+    </box>
+    <box height="11" left="86" top="92" width="4">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2143s.JPG">
+    <box height="251" left="82" top="200" width="198">
+      <label>cone</label>
+    </box>
+    <box height="94" left="387" top="159" width="61">
+      <label>cone</label>
+    </box>
+    <box height="38" left="508" top="166" width="26">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2144s.JPG">
+    <box height="262" left="76" top="137" width="208">
+      <label>cone</label>
+    </box>
+    <box height="97" left="388" top="147" width="60">
+      <label>cone</label>
+    </box>
+    <box height="41" left="507" top="166" width="28">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2145s.JPG">
+    <box height="302" left="91" top="234" width="230">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2146s.JPG">
+    <box height="334" left="192" top="275" width="242">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2147s.JPG">
+    <box height="272" left="56" top="318" width="213">
+      <label>cone</label>
+    </box>
+    <box height="80" left="313" top="286" width="58">
+      <label>cone</label>
+    </box>
+    <box height="48" left="348" top="281" width="34">
+      <label>cone</label>
+    </box>
+    <box height="20" left="403" top="276" width="16">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2148s.JPG">
+    <box height="307" left="48" top="224" width="197">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2149s.JPG">
+    <box height="336" left="79" top="86" width="187">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2150s.JPG">
+    <box height="241" left="352" top="163" width="126">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2151s.JPG">
+    <box height="214" left="121" top="322" width="125">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2152s.JPG">
+    <box height="304" left="209" top="265" width="184">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2153s.JPG">
+    <box height="318" left="245" top="119" width="217">
+      <label>cone</label>
+    </box>
+    <box height="78" left="210" top="79" width="47">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2154s.JPG">
+    <box height="319" left="83" top="175" width="220">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2155s.JPG">
+    <box height="250" left="101" top="152" width="144">
+      <label>cone</label>
+    </box>
+    <box height="32" left="351" top="121" width="18">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2156s.JPG">
+    <box height="75" left="178" top="88" width="58">
+      <label>cone</label>
+    </box>
+    <box height="280" left="289" top="128" width="170">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2157s.JPG">
+    <box height="288" left="43" top="168" width="207">
+      <label>cone</label>
+    </box>
+    <box height="76" left="430" top="114" width="60">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2239s.JPG">
+    <box height="114" left="375" top="218" width="67">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2240s.JPG">
+    <box height="81" left="152" top="248" width="59">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2241s.JPG">
+    <box height="46" left="164" top="249" width="31">
+      <label>cone</label>
+    </box>
+    <box height="58" left="480" top="269" width="44">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2242s.JPG">
+    <box height="45" left="165" top="308" width="31">
+      <label>cone</label>
+    </box>
+    <box height="37" left="352" top="291" width="25">
+      <label>cone</label>
+    </box>
+    <box height="33" left="496" top="281" width="23">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2243s.JPG">
+    <box height="49" left="162" top="256" width="35">
+      <label>cone</label>
+    </box>
+    <box height="55" left="449" top="281" width="39">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2244s.JPG">
+    <box height="125" left="423" top="205" width="72">
+      <label>cone</label>
+    </box>
+    <box height="143" left="240" top="232" width="106">
+      <label>cone</label>
+    </box>
+    <box height="130" left="161" top="208" width="98">
+      <label>cone</label>
+    </box>
+    <box height="117" left="183" top="173" width="84">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2245s.JPG">
+    <box height="107" left="137" top="285" width="71">
+      <label>cone</label>
+    </box>
+    <box height="76" left="298" top="225" width="59">
+      <label>cone</label>
+    </box>
+    <box height="70" left="346" top="194" width="49">
+      <label>cone</label>
+    </box>
+    <box height="56" left="404" top="170" width="39">
+      <label>cone</label>
+    </box>
+    <box height="52" left="419" top="168" width="36">
+      <label>cone</label>
+    </box>
+    <box height="35" left="542" top="126" width="26">
+      <label>cone</label>
+    </box>
+    <box height="33" left="614" top="122" width="27">
+      <label>cone</label>
+    </box>
+    <box height="22" left="633" top="100" width="13">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2246s.JPG">
+    <box height="189" left="135" top="205" width="134">
+      <label>cone</label>
+    </box>
+    <box height="174" left="398" top="196" width="123">
+      <label>cone</label>
+    </box>
+    <box height="147" left="475" top="193" width="91">
+      <label>cone</label>
+    </box>
+    <box height="87" left="254" top="228" width="85">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2247s.JPG">
+    <box height="259" left="415" top="167" width="183">
+      <label>cone</label>
+    </box>
+    <box height="110" left="284" top="151" width="79">
+      <label>cone</label>
+    </box>
+    <box height="84" left="222" top="145" width="62">
+      <label>cone</label>
+    </box>
+    <box height="63" left="199" top="141" width="43">
+      <label>cone</label>
+    </box>
+    <box height="31" left="184" top="136" width="23">
+      <label>cone</label>
+    </box>
+    <box height="18" left="183" top="135" width="11">
+      <label>cone</label>
+    </box>
+    <box height="27" left="230" top="136" width="16">
+      <label>cone</label>
+    </box>
+    <box height="15" left="226" top="133" width="9">
+      <label>cone</label>
+    </box>
+    <box height="15" left="215" top="132" width="10">
+      <label>cone</label>
+    </box>
+    <box height="23" left="276" top="134" width="17">
+      <label>cone</label>
+    </box>
+    <box height="20" left="315" top="133" width="15">
+      <label>cone</label>
+    </box>
+    <box height="20" left="351" top="131" width="17">
+      <label>cone</label>
+    </box>
+    <box height="41" left="598" top="121" width="31">
+      <label>cone</label>
+    </box>
+    <box height="26" left="462" top="126" width="16">
+      <label>cone</label>
+    </box>
+    <box height="12" left="478" top="122" width="11">
+      <label>cone</label>
+    </box>
+    <box height="12" left="437" top="124" width="9">
+      <label>cone</label>
+    </box>
+    <box height="12" left="459" top="123" width="7">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2248s.JPG">
+    <box height="207" left="186" top="212" width="125">
+      <label>cone</label>
+    </box>
+    <box height="211" left="338" top="200" width="146">
+      <label>cone</label>
+    </box>
+    <box height="54" left="494" top="140" width="38">
+      <label>cone</label>
+    </box>
+    <box height="66" left="274" top="146" width="45">
+      <label>cone</label>
+    </box>
+    <box height="49" left="136" top="126" width="28">
+      <label>cone</label>
+    </box>
+    <box height="36" left="270" top="106" width="25">
+      <label>cone</label>
+    </box>
+    <box height="31" left="383" top="120" width="21">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2249s.JPG">
+    <box height="215" left="483" top="153" width="125">
+      <label>cone</label>
+    </box>
+    <box height="51" left="360" top="196" width="32">
+      <label>cone</label>
+    </box>
+    <box height="49" left="393" top="195" width="34">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2267s.JPG">
+    <box height="181" left="119" top="218" width="119">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2268s.JPG">
+    <box height="86" left="85" top="211" width="52">
+      <label>cone</label>
+    </box>
+    <box height="103" left="320" top="203" width="73">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2269s.JPG">
+    <box height="63" left="391" top="281" width="40">
+      <label>cone</label>
+    </box>
+    <box height="50" left="241" top="242" width="34">
+      <label>cone</label>
+    </box>
+    <box height="30" left="222" top="197" width="20">
+      <label>cone</label>
+    </box>
+    <box height="32" left="18" top="198" width="23">
+      <label>cone</label>
+    </box>
+    <box height="16" left="-1" top="177" width="12">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/A95/IMG_2270s.JPG">
+    <box height="365" left="38" top="106" width="236">
+      <label>cone</label>
+    </box>
+    <box height="203" left="314" top="129" width="116">
+      <label>cone</label>
+    </box>
+    <box height="122" left="492" top="160" width="80">
+      <label>cone</label>
+    </box>
+  </image>
+<image file="jh/OneP/IMG_20171030_181610s.jpg">
+    <box height="446" left="224" top="196" width="258">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/OneP/IMG_20171030_181626s.jpg">
+    <box height="502" left="556" top="270" width="290">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/OneP/IMG_20171030_181646s.jpg">
+    <box height="495" left="222" top="183" width="293">
+      <label>cone</label>
+    </box>
+  </image>
+<image file="jh/80d/IMG_2203-preview3s.jpg">
+    <box height="181" left="291" top="557" width="144">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/80d/IMG_2204-preview3s.jpg">
+    <box height="193" left="546" top="323" width="140">
+      <label>cone</label>
+    </box>
+    <box height="180" left="344" top="299" width="131">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/80d/IMG_2205-preview3s.jpg">
+    <box height="216" left="117" top="310" width="150">
+      <label>cone</label>
+    </box>
+    <box height="207" left="548" top="298" width="138">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/80d/IMG_2206-preview3s.jpg">
+    <box height="126" left="174" top="335" width="103">
+      <label>cone</label>
+    </box>
+    <box height="126" left="299" top="315" width="95">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/80d/IMG_2207-preview3s.jpg">
+    <box height="222" left="115" top="311" width="157">
+      <label>cone</label>
+    </box>
+    <box height="220" left="446" top="303" width="155">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/80d/IMG_2208-preview3s.jpg">
+    <box height="221" left="133" top="281" width="162">
+      <label>cone</label>
+    </box>
+    <box height="215" left="458" top="282" width="156">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/80d/IMG_2209-preview3s.jpg">
+    <box height="115" left="651" top="390" width="97">
+      <label>cone</label>
+    </box>
+    <box height="120" left="539" top="391" width="87">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/80d/IMG_2210-preview3s.jpg">
+    <box height="452" left="18" top="414" width="311">
+      <label>cone</label>
+    </box>
+    <box height="401" left="309" top="378" width="304">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/80d/IMG_2211-preview3s.jpg">
+    <box height="142" left="387" top="459" width="105">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/80d/IMG_2212-preview3s.jpg">
+    <box height="566" left="159" top="250" width="429">
+      <label>cone</label>
+    </box>
+    <box height="480" left="49" top="209" width="290">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/80d/IMG_2213-preview3s.jpg">
+    <box height="604" left="270" top="262" width="361">
+      <label>cone</label>
+    </box>
+    <box height="455" left="14" top="185" width="282">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/80d/IMG_2214-preview3s.jpg">
+    <box height="364" left="526" top="202" width="229">
+      <label>cone</label>
+    </box>
+    <box height="314" left="249" top="162" width="210">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/80d/IMG_2215-preview3s.jpg">
+    <box height="494" left="52" top="150" width="379">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/80d/IMG_2216-preview3s.jpg">
+    <box height="488" left="222" top="365" width="358">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/80d/IMG_2217-preview3s.jpg">
+    <box height="731" left="29" top="177" width="539">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/80d/IMG_2218-preview3s.jpg">
+    <box height="635" left="175" top="250" width="398">
+      <label>cone</label>
+    </box>
+  </image>
+</images>
+</dataset>
