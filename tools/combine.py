@@ -23,6 +23,8 @@ def main(argv):
 		for i in imgs2.findall('image'):
 			imgs.append(i)
 	tree.write(sys.stdout)
+	# newline
+	print
 
 if __name__ == "__main__":
 	main(sys.argv[1:])

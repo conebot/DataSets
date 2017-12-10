@@ -49,6 +49,16 @@ export: cone-tf-model/ssd_mobilenet_v1_cone.config
 run: cone-tf-model/cone_label_map.pbtxt cone_graph.pb
 	python $(OBJECT_DETECTOR_APP)/object_detection_app.py -labels cone-tf-model/cone_label_map.pbtxt -ckpt cone_graph.pb 
 
+%.jpg : %.CR2
+	exiftool -PreviewImage -b $< > $*.jpg
+
+%-preview3s.jpg : %.CR2
+	exiftool -PreviewImage -b $< > $*.jpg
+	convert -resize 20% $*.jpg $*-preview3s.jpg
+
+new-files:
+	imglab -c new.xml new-files
+	imglab new.xml
 
 fullclean:
 	rm -rf tf-train

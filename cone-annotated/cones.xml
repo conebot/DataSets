@@ -911,5 +911,31 @@
       <label>cone</label>
     </box>
   </image>
+<image file="jh/80d/IMG_2579-preview3s.jpg">
+    <box height="247" left="211" top="346" width="181">
+      <label>cone</label>
+    </box>
+    <box height="186" left="668" top="306" width="137">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/80d/IMG_2580-preview3s.jpg">
+    <box height="246" left="208" top="348" width="179">
+      <label>cone</label>
+    </box>
+    <box height="184" left="666" top="326" width="137">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/80d/IMG_2581-preview3s.jpg">
+    <box height="346" left="361" top="582" width="272">
+      <label>cone</label>
+    </box>
+  </image>
+  <image file="jh/80d/IMG_2582-preview3s.jpg">
+    <box height="306" left="174" top="598" width="223">
+      <label>cone</label>
+    </box>
+  </image>
 </images>
 </dataset>
